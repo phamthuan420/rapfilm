@@ -1,4 +1,4 @@
-import danhSachGhe from "../RapFilm/danhSachGhe.json";
+import danhSachGhe from "./danhSachGhe.json";
 
 const data = {
   dsGhe: danhSachGhe,

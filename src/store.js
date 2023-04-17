@@ -1,5 +1,5 @@
 import { configureStore } from "@reduxjs/toolkit";
-import OrderTicket from "./reducers/RapFilm";
+import OrderTicket from "./RapFilm/RapFilm";
 
 const store = configureStore({
   reducer: {
